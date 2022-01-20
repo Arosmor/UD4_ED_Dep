@@ -3,7 +3,7 @@ class ArrayExample
 {
     static void Main()
     {
-        //Define una raid de caracteres llamado letters
+        //Define un array de caracteres llamado letters
         //Se reserva memoria para 10 elemoentos de tipo char
         //Tenemos un "for" donde se van añadiendo los elementos de uno en uno hasta que llegue a los 10
         //Finalmente el programa van poniendo por pantalla el mensaje "hello" en una linea con la priemra sentencia hasta
